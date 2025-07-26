@@ -1,0 +1,1 @@
+savedcmd_/home/irontx/work/PCle_demo/pci_demo_driver.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/irontx/work/PCle_demo/pci_demo_driver.ko /home/irontx/work/PCle_demo/pci_demo_driver.o /home/irontx/work/PCle_demo/pci_demo_driver.mod.o
