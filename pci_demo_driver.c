@@ -4,8 +4,8 @@
 
 // 定义虚拟PCI设备ID
 #define DEMO_VENDOR_ID 0x1234
-#define DEMO_DEVICE_ID 0xABCD // 用于无硬件模拟
-// #define DEMO_DEVICE_ID 0x11E8 // 用于QEMU的edu设备
+// #define DEMO_DEVICE_ID 0xABCD // 用于无硬件模拟
+#define DEMO_DEVICE_ID 0x11E8 // 用于QEMU的edu设备
 
 // 定义虚拟设备寄存器偏移
 #define REG_FPGA_VERSION    0x00

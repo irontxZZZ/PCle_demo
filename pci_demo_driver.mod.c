@@ -55,6 +55,6 @@ __used __section("__versions") = {
 
 MODULE_INFO(depends, "");
 
-MODULE_ALIAS("pci:v00001234d0000ABCDsv*sd*bc*sc*i*");
+MODULE_ALIAS("pci:v00001234d000011E8sv*sd*bc*sc*i*");
 
-MODULE_INFO(srcversion, "F0FEC0E2621E6CAE40B639A");
+MODULE_INFO(srcversion, "02FF0271CBD1F5B99FC2782");
